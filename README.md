@@ -1,10 +1,12 @@
 
-**:)**
+**Hola :)**
 
-![2](https://user-images.githubusercontent.com/126533647/221745201-fdef2fe8-d005-4414-9c87-85cf51663f51.png)
-          
-### 🦆 Languages
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/126533647/221745201-fdef2fe8-d005-4414-9c87-85cf51663f51.png" alt="Header" />
+</div>
 
+<hr>
+🦆 Tecnologías y Lenguajes
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -17,5 +19,5 @@
 <img align="left" alt="tomcat" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
 <img align="left" alt="bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <br />
-
-#
+<br />
+<hr>
